@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portnox.Core", "Portnox.Core\Portnox.Core.csproj", "{4516E26F-A87E-420A-884C-D707D68C7C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portnox.Data", "Portnox.Data\Portnox.Data.csproj", "{1C7EA5F4-47DD-44D9-B458-242CE461FD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portnox.Tests", "Portnox.Tests\Portnox.Tests.csproj", "{86AE2529-2481-4208-8192-05719A10C09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portnox.Facades", "Portnox.Fasades\Portnox.Facades.csproj", "{EAE2F4F3-F10A-4C2D-9A70-6A874AE678F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4516E26F-A87E-420A-884C-D707D68C7C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4516E26F-A87E-420A-884C-D707D68C7C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4516E26F-A87E-420A-884C-D707D68C7C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4516E26F-A87E-420A-884C-D707D68C7C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7EA5F4-47DD-44D9-B458-242CE461FD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7EA5F4-47DD-44D9-B458-242CE461FD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7EA5F4-47DD-44D9-B458-242CE461FD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7EA5F4-47DD-44D9-B458-242CE461FD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AE2529-2481-4208-8192-05719A10C09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AE2529-2481-4208-8192-05719A10C09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AE2529-2481-4208-8192-05719A10C09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AE2529-2481-4208-8192-05719A10C09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE2F4F3-F10A-4C2D-9A70-6A874AE678F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE2F4F3-F10A-4C2D-9A70-6A874AE678F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE2F4F3-F10A-4C2D-9A70-6A874AE678F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE2F4F3-F10A-4C2D-9A70-6A874AE678F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80D16F7-BEF6-413C-BD80-2BB97BB89E58}
+	EndGlobalSection
+EndGlobal
